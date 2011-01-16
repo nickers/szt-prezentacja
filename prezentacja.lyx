@@ -50,11 +50,11 @@ Document engineering
 \end_layout
 
 \begin_layout Author
-Dariusz Filipiak, Tomasz Wsuł
+Dariusz Filipiak, Przemysław Piechowiak, Tomasz Wsuł
 \end_layout
 
 \begin_layout Date
-09.01.2011
+17.01.2011
 \end_layout
 
 \begin_layout BeginFrame
@@ -187,6 +187,31 @@ Document Engineering synthesizes complementary ideas from the separate ﬁelds
  of business process analysis, task analysis, document analysis and data
  analysis.
  
+\end_layout
+
+\begin_layout BeginFrame
+Context of use
+\end_layout
+
+\begin_layout Itemize
+Agree on scope of work.
+\end_layout
+
+\begin_layout Itemize
+Choose technology for process, not opposite.
+ 
+\end_layout
+
+\begin_layout Itemize
+Legacy is OK.
+\end_layout
+
+\begin_layout Itemize
+Keep eye on goal!
+\end_layout
+
+\begin_layout Block
+! Documents are connected, not all are your responsibility.
 \end_layout
 
 \begin_layout BeginFrame
