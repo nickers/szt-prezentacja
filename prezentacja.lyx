@@ -225,6 +225,10 @@ UML sequence diagrams
 flowcharts
 \end_layout
 
+\begin_layout BeginFrame
+Designing business processes 
+\end_layout
+
 \begin_layout Itemize
 Time is money!
 \end_layout
@@ -244,7 +248,7 @@ Procurement will be similiar if you are buying stell and paper clips.
 
 \end_deeper
 \begin_layout BeginFrame
-Analiza dokumentu /1
+Analyzing documents
 \end_layout
 
 \begin_layout Block
@@ -308,7 +312,7 @@ Document inventory
 \end_layout
 
 \begin_layout BeginFrame
-Analiza dokumentu /2
+Analyzing documents 
 \end_layout
 
 \begin_layout Itemize
@@ -340,7 +344,7 @@ ts.
 \end_layout
 
 \begin_layout BeginFrame
-Analyzing document components/1
+Analyzing document components
 \end_layout
 
 \begin_layout Standard
@@ -373,7 +377,7 @@ Sometimes you need to keep presentation consistent, ex.
 \end_layout
 
 \begin_layout BeginFrame
-Analyzing document components/2
+Analyzing document components
 \end_layout
 
 \begin_layout Standard
@@ -425,7 +429,7 @@ status open
 \end_layout
 
 \begin_layout BeginFrame
-Analyzing document components /3
+Analyzing document components
 \end_layout
 
 \begin_layout Standard
