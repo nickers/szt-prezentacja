@@ -137,7 +137,7 @@ Document types
 \end_layout
 
 \begin_layout BeginFrame
-Characteristics
+Document Engineering Approach
 \end_layout
 
 \begin_layout Itemize
@@ -165,15 +165,28 @@ When businesses exchange documents, they must agree on what the documents
  
 \end_layout
 
+\begin_layout BeginFrame
+Document Engineering Approach
+\end_layout
+
+\begin_layout Itemize
+We must be able to describe the information content and processes in a document
+ exchange, identify the context of use and its relevant requirements and
+ constraints, analyze and design a solution, and then implement and deploy
+ that solution
+\end_layout
+
+\begin_layout Itemize
+Document exchanges must be implementable in a loosely coupled, technology-indepe
+ndent manner.
+ 
+\end_layout
+
 \begin_layout Itemize
 Document Engineering synthesizes complementary ideas from the separate ﬁelds
  of business process analysis, task analysis, document analysis and data
  analysis.
  
-\end_layout
-
-\begin_layout BeginFrame
-Analiza procesu biznesowego
 \end_layout
 
 \begin_layout BeginFrame
