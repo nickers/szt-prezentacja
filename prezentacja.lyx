@@ -194,7 +194,99 @@ Projektowanie procesu biznesowego
 \end_layout
 
 \begin_layout BeginFrame
-Analiza dokumentu
+Analiza dokumentu /1
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Goal}
+\end_layout
+
+\end_inset
+
+
+\series bold
+ Conceptual model
+\series default
+ of documents including all informations required in required context of
+ use.
+\end_layout
+
+\begin_layout Enumerate
+Find all sources of documents and information you need to analyze.
+\end_layout
+
+\begin_layout Enumerate
+Look also for non-document source of information - databases, spreadsheets,
+ catalogs, brochures, calendars, web pages etc.
+\end_layout
+
+\begin_layout Enumerate
+Ask people, some information may be 
+\begin_inset Quotes eld
+\end_inset
+
+behind the courtain
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\emph on
+We always...
+\emph default
+).
+\end_layout
+
+\begin_layout Enumerate
+Create document inventory.
+\end_layout
+
+\begin_layout Definitions
+
+\series bold
+Document inventory
+\series default
+ - set of documents and artifacts to analyze
+\end_layout
+
+\begin_layout Definitions
+
+\end_layout
+
+\begin_layout BeginFrame
+Analiza dokumentu /2
+\end_layout
+
+\begin_layout Itemize
+Sample documents inventory - too many examples, can not check all of them.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\begin_inset Flex CharStyle:Alert
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Representative
+\end_layout
+
+\end_inset
+
+
+\series default
+ samples - ask for help, look for differences from most of instances.
+\end_layout
+
+\begin_layout Itemize
+Data entry form - excelent source of information about constrains and requiremen
+ts.
 \end_layout
 
 \begin_layout BeginFrame
