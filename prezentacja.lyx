@@ -1,0 +1,315 @@
+#LyX 1.6.7 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass beamer
+\begin_preamble
+\usetheme{Warsaw}
+\end_preamble
+\use_default_options true
+\language polish
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Document engineering
+\end_layout
+
+\begin_layout Author
+Dariusz Filipiak, Tomasz Wsuł
+\end_layout
+
+\begin_layout Date
+09.01.2011
+\end_layout
+
+\begin_layout BeginFrame
+Definition
+\end_layout
+
+\begin_layout Standard
+Document Engineering synthesizes complementary ideas from information and
+ systems analysis, electronic publishing, business process analysis, and
+ business informatics.
+ Its unifying document-centric perspective helps us conceive and understand
+ the new network-based business models made possible by the Internet and
+ supporting technologies.
+ 
+\end_layout
+
+\begin_layout Standard
+Document Engineering provides the concepts and methods needed to align business
+ strategy and information technology, to bridge the gap between what we
+ want to do and how to do it.
+\end_layout
+
+\begin_layout BeginFrame
+Definition
+\end_layout
+
+\begin_layout Standard
+The essence of Document Engineering is the analysis and design methods that
+ yield:
+\end_layout
+
+\begin_layout Itemize
+Precise speciﬁcations or models for the information that business processes
+ require.
+\end_layout
+
+\begin_layout Itemize
+Rules by which related processes are coordinated, whether between different
+ ﬁrms to create composite services or virtual enterprises or within a ﬁrm
+ to streamline information ﬂow between organizations.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+Document types
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename typy.png
+	width 75page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Document types
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Characteristics
+\end_layout
+
+\begin_layout Itemize
+We deﬁne document in a technology-neutral way as a purposeful and self-contained
+ collection of information.
+ 
+\end_layout
+
+\begin_layout Itemize
+We generalize the idea of documents as interfaces for people, to the idea
+ that documents are interfaces to business processes.
+ 
+\end_layout
+
+\begin_layout Itemize
+We need to be diligent and precise when we deﬁne the meaning of any information
+ produced and consumed by business applications.
+ 
+\end_layout
+
+\begin_layout Itemize
+When businesses exchange documents, they must agree on what the documents
+ mean and on the business processes they expect each other to carry out
+ with them, but they don’t need to agree on the technology they use.
+ 
+\end_layout
+
+\begin_layout Itemize
+Document Engineering synthesizes complementary ideas from the separate ﬁelds
+ of business process analysis, task analysis, document analysis and data
+ analysis.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+Analiza procesu biznesowego
+\end_layout
+
+\begin_layout BeginFrame
+Projektowanie procesu biznesowego
+\end_layout
+
+\begin_layout BeginFrame
+Analiza dokumentu
+\end_layout
+
+\begin_layout BeginFrame
+Analyzing document components/1
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Harvesting the components
+\series default
+ - isolate semantic components in documents.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Separate meaning from representation
+\series default
+ - different sources may produce the same documents looking differently.
+\end_layout
+
+\begin_layout Quotation
+Do not discard presentation - analyze it! 
+\end_layout
+
+\begin_layout Itemize
+Why something is separated - coupons, group orders.
+\end_layout
+
+\begin_layout Itemize
+Sometimes you need to keep presentation consistent, ex.
+ on web page summary, in user interface.
+\end_layout
+
+\begin_layout BeginFrame
+Analyzing document components/2
+\end_layout
+
+\begin_layout Standard
+Name the Content Components
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+harvest components
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+name them
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+suggest meaning
+\end_layout
+
+\begin_layout Standard
+Be consistent! At minimum:
+\end_layout
+
+\begin_layout Itemize
+component name dictionary
+\end_layout
+
+\begin_layout Itemize
+list of terms and their definitions
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Artifact}
+\end_layout
+
+\end_inset
+
+ Table of Candidate Content Components
+\end_layout
+
+\begin_layout BeginFrame
+Analyzing document components /3
+\end_layout
+
+\begin_layout Standard
+Consolidate components
+\end_layout
+
+\begin_layout Itemize
+merge synonims
+\end_layout
+
+\begin_layout Itemize
+split homonyms - assign more distinctive names
+\end_layout
+
+\begin_layout Block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{Artifact}
+\end_layout
+
+\end_inset
+
+ Consolidated Table of Content Components
+\end_layout
+
+\begin_layout BeginFrame
+Tworzenie komponentów dokumentu
+\end_layout
+
+\begin_layout BeginFrame
+Implementacja modelu
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\end_body
+\end_document
