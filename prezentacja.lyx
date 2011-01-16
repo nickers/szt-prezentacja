@@ -190,7 +190,39 @@ Document Engineering synthesizes complementary ideas from the separate ﬁelds
 \end_layout
 
 \begin_layout BeginFrame
-Projektowanie procesu biznesowego
+Analyzing business processes
+\end_layout
+
+\begin_layout Standard
+Abstraction level:
+\end_layout
+
+\begin_layout Itemize
+Use the concepts and components provided by a business reference model,
+ whose hierarchical organization of processes has been rigorously designed
+ to reinforce granularity.
+\end_layout
+
+\begin_layout Itemize
+Express all process models at the granularity where we can identify the
+ documents that they produce and consume.
+ 
+\end_layout
+
+\begin_layout Standard
+Created artifacts:
+\end_layout
+
+\begin_layout Itemize
+UML activity diagrams
+\end_layout
+
+\begin_layout Itemize
+UML sequence diagrams
+\end_layout
+
+\begin_layout Itemize
+flowcharts
 \end_layout
 
 \begin_layout BeginFrame
